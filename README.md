@@ -18,4 +18,4 @@ npm run build
 
 
 
-:mushroom: xM.Ottino
+Otto :tm:
